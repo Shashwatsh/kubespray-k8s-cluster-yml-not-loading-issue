@@ -2,7 +2,7 @@
 
 this is what i did:
 
-added 
+added the following in cluster.yml
 ```
 ---
 - hosts: localhost
